@@ -5,6 +5,19 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Software+engineer+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 
 ------
+- uses: Platane/snk@v3
+  with:
+    github_user_name: Sebas-ti
+
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+![snake gif](https://github.com/Sebas-ti/Sebas-ti/blob/output/github-contribution-grid-snake.svg)
+
+
+------
 
 <h3 align="left">Activity:</h3>
 
