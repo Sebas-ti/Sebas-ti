@@ -10,7 +10,7 @@
 ¡Aquí está la animación de tus contribuciones en forma de serpiente!
 
 <p align="center">
-  <img alt="snake gif" src="https://github.com/Sebas-ti/Sebas-ti/blob/output/github-snake.svg">
+  <img alt="snake gif" src="https://github.com/Sebas-ti/Sebas-ti/blob/output/github-snake-dark.svg">
 </p>
 
 
