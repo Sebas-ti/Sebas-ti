@@ -17,7 +17,7 @@
 
 Hi, I'm a full-stack developer passionate about building end-to-end technology solutions. I love working on both the frontend and backend, and I enjoy transforming complex ideas into functional, accessible, and well-designed products.
 
-------
+
 ------
 
 🚀 Tech Stack
